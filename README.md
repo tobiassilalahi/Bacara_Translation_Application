@@ -1,4 +1,4 @@
-# Bacara (Android App Source Code Branch)
+# Bacara 
 
 Created by Bangkit team 
 1. A0030168, Timotius Haniel, timotiushaniel
@@ -8,10 +8,9 @@ Created by Bangkit team
 5. M0030169, Thomas Ken Ronaldi, thomken10
 6. M0101095, Gita Ayu Salsabila, GitaAyu06
 
-### Android app Source Code
-Android app source code repository and commits history are available at branch master or link mentioned below
-1. Source code: https://github.com/GitaAyu06/Bacara_App/tree/master
-2. Commits History: https://github.com/GitaAyu06/Bacara_App/commits/master
+### Deployed Link to install Bacara Application APK on Android Device:
+Android APK: https://drive.google.com/drive/folders/1yKHIo8RpJhZZytF-UqEX7idi5ClhcXZ0
+Bacara requires 23 MB to store in your local devices, and it requires internet connection to run. Bacara is only available to run on Android version 8.0 or newer.
 
 ## Introduction
 Bacara is an Android application that provide sign language recognition, sign language game and live sign language translation from sign language gesture (SIBI) to speech in Bahasa. 
