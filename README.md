@@ -1,8 +1,8 @@
 # Bacara 
 
 Created by Bangkit team 
-1. A0030168, Timotius Haniel, timotiushaniel
-2. A0101072, Tobias Ivandito Margogo Silalahi, tobiassilalahi
+1. A0101072, Tobias Ivandito Margogo Silalahi, tobiassilalahi 
+2. A0030168, Timotius Haniel, timotiushaniel
 3. C2042005, Muhammad Rizky Perdana, MuhRizkyPerdana
 4. C0121271, Michelle Octavia Yolanda Sari, Michelleoctaviaa
 5. M0030169, Thomas Ken Ronaldi, thomken10
