@@ -29,14 +29,14 @@ Our team is concerned about Indonesian who suffer from hearing disability. There
 User will be given a short Introduction to Bacara and it’s feature
 
 <p align="center">
-  <img src="https://github.com/GitaAyu06/Bacara_App/blob/main/Bacara%20Screen%20Shoot/3.%20Second%20On%20Boarding%20Page.PNG">
-  <img src="https://github.com/GitaAyu06/Bacara_App/blob/main/Bacara%20Screen%20Shoot/4.%20Third%20On%20Boarding%20Page.PNG">
+  <img src="https://github.com/tobiassilalahi/Bacara_Translation_Application/blob/main/image_resource/3.%20Second%20On%20Boarding%20Page.PNG">
+  <img src="https://github.com/tobiassilalahi/Bacara_Translation_Application/blob/main/image_resource/4.%20Third%20On%20Boarding%20Page.PNG">
 </p>
 
 # Sign In Page
 
 <p align="center">
-  <img src="https://github.com/GitaAyu06/Bacara_App/blob/main/Bacara%20Screen%20Shoot/5.%20Sign%20In%20Page.PNG">
+  <img src="https://github.com/tobiassilalahi/Bacara_Translation_Application/blob/main/image_resource/5.%20Sign%20In%20Page.PNG">
 </p>
 
 User is required sign in using their Bacara account to use the app and access their Bacara account.
@@ -45,7 +45,7 @@ If user do not have a Bacara account, user can create an account by click “CRE
 # Sign Up Page
 
 <p align="center">
-  <img src="https://github.com/GitaAyu06/Bacara_App/blob/main/Bacara%20Screen%20Shoot/6.%20Sign%20Up%20Page.PNG">
+  <img src="https://github.com/tobiassilalahi/Bacara_Translation_Application/blob/main/image_resource/6.%20Sign%20Up%20Page.PNG">
 </p>
 
 User can sign up using the page above by creating username, password and provide their email address. User information will be stored in Bacara’s database powered by firebase.
@@ -53,7 +53,7 @@ User can sign up using the page above by creating username, password and provide
 # Home Page
 
 <p align="center">
-  <img src="https://github.com/GitaAyu06/Bacara_App/blob/main/Bacara%20Screen%20Shoot/7.%20Home%20Page.PNG">
+  <img src="https://github.com/tobiassilalahi/Bacara_Translation_Application/blob/main/image_resource/7.%20Home%20Page.PNG">
 </p>
 
 By clicking the Home icon in the bottom left part of Bacara’s navigation tab, user will be directed to Bacara’s Home Page. In Home Page, 3 features will be displayed on user screen.
@@ -80,7 +80,7 @@ Report Bug is a feature that allows user to report a bug that occurs in their ex
 3.	Library
 
 <p align="center">
-  <img src="https://github.com/GitaAyu06/Bacara_App/blob/main/Bacara%20Screen%20Shoot/8.%20Library%20Page.PNG">
+  <img src="https://github.com/tobiassilalahi/Bacara_Translation_Application/blob/main/image_resource/8.%20Library%20Page.PNG">
 </p>
 
 Library is a feature that allows user to search for BISINDO gesture. By clicking the Library icon, user will be directed to https://pmpk.kemdikbud.go.id/sibi/pencarian where user can type the word of their intended BISINDO gesture. The webapp will provide a video on how to perform the gesture in BISINDO.
@@ -88,7 +88,7 @@ Library is a feature that allows user to search for BISINDO gesture. By clicking
 # Profile Page
 
 <p align="center">
-  <img src="https://github.com/GitaAyu06/Bacara_App/blob/main/Bacara%20Screen%20Shoot/9.%20Profile%20Page.PNG">
+  <img src="https://github.com/tobiassilalahi/Bacara_Translation_Application/blob/main/image_resource/9.%20Profile%20Page.PNG">
 </p>
 
 By clicking the profile icon in the bottom right part of Bacara’s navigation tab, user will be directed to Bacara’s Profile Page. In Profile Page, user can see their Bacara’s account details including, sign up date, username, and subscription status.
@@ -96,7 +96,7 @@ By clicking the profile icon in the bottom right part of Bacara’s navigation t
 # Translate Page
 
 <p align="center">
-  <img src="https://github.com/GitaAyu06/Bacara_App/blob/main/Bacara%20Screen%20Shoot/Edited%20Page/10.%20Translation%20Page.jpeg">
+  <img src="https://github.com/tobiassilalahi/Bacara_Translation_Application/blob/main/image_resource/10.%20Translation%20Page.jpeg">
 </p>
 
 By clicking the Translate icon in the middle part of Bacara’s bottom navigation tab, user will be directed to Bacara’s Translate Page.
