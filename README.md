@@ -23,7 +23,7 @@ Our team is concerned about Indonesian who suffer from hearing disability. There
 # Intro Bacara
 
 <p align="center">
-  <img src="https://github.com/GitaAyu06/Bacara_App/blob/main/Bacara%20Screen%20Shoot/1.%20Splash%20Screen.PNG">
+  <img src="https://github.com/tobiassilalahi/Bacara_Translation_Application/blob/main/image_resource/1.%20Splash%20Screen.PNG">
 </p>
 
 User will be given a short Introduction to Bacara and it’s feature
@@ -31,7 +31,6 @@ User will be given a short Introduction to Bacara and it’s feature
 <p align="center">
   <img src="https://github.com/GitaAyu06/Bacara_App/blob/main/Bacara%20Screen%20Shoot/3.%20Second%20On%20Boarding%20Page.PNG">
   <img src="https://github.com/GitaAyu06/Bacara_App/blob/main/Bacara%20Screen%20Shoot/4.%20Third%20On%20Boarding%20Page.PNG">
-  <img src="https://github.com/GitaAyu06/Bacara_App/blob/main/Bacara%20Screen%20Shoot/Edited%20Page/4.%20Third%20On%20Boarding%20Page.PNG">
 </p>
 
 # Sign In Page
