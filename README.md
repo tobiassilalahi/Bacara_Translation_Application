@@ -9,7 +9,7 @@ Created by Bangkit team
 6. M0101095, Gita Ayu Salsabila, GitaAyu06
 
 ### Deployed Link to install Bacara Application APK on Android Device:
-Android APK: https://drive.google.com/drive/folders/1yKHIo8RpJhZZytF-UqEX7idi5ClhcXZ0
+Android APK: https://drive.google.com/drive/folders/1djFsqQRxrgvmywDm7TH7Ov-JwEGMZaT9?usp=sharing 
 Bacara requires 23 MB to store in your local devices, and it requires internet connection to run. Bacara is only available to run on Android version 8.0 or newer.
 
 ## Introduction
